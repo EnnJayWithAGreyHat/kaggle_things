@@ -1,0 +1,2 @@
+This is just a file to publish the head, I am unsure of how the cross connection
+between the sites works just yet.
